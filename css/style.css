@@ -8,7 +8,6 @@
     background-color: #f8f9fa; /* Fundo claro */
     margin: 0;
 }
-
 /* Estilo do formulário */
 form {
     background-color: white;
@@ -18,7 +17,6 @@ form {
     width: 100%;
     max-width: 400px; /* Largura máxima do formulário */
 }
-
 /* Estiliza as legendas e rótulos */
 legend {
     font-size: 1.5rem;
@@ -26,14 +24,12 @@ legend {
     text-align: center;
     margin-bottom: 20px;
 }
-
 /* Ajusta a largura dos campos de entrada e seleção */
 input.form-control, select.form-select {
     width: 100%;
     max-width: 600px; /* Limita a largura dos campos */
     margin: 10px auto;
 }
-
 /* Botão de conversão */
 button {
     display: block;
@@ -47,11 +43,9 @@ button {
     padding: 10px;
     border-radius: 5px;
 }
-
 button:hover {
     background-color: #218838; /* Cor do botão ao passar o mouse */
 }
-
 /* Estilo para o campo de resultado */
 input[readonly] {
     background-color: #f0f0f0; /* Cor de fundo mais clara para o campo de resultado */
